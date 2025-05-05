@@ -63,7 +63,7 @@ A entrega final foi um dashboard interativo, limpo e intuitivo, permitindo a lei
 ## 📎 Imagem do dashboard
 
 análise Vendas.png
-
+análise de usuarios.png
 ---
 
 ## 👩‍💻 Sobre mim
